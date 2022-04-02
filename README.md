@@ -1,4 +1,4 @@
-[![Run App](https://github.com/kgerot/GithubActions/actions/workflows/run-app.yaml/badge.svg)](https://github.com/kgerot/GithubActions/actions/workflows/run-app.yaml)
+[![Run App Jay Patel](https://github.com/kgerot/GithubActions/actions/workflows/dotnet.yml/badge.svg)](https://github.com/kgerot/GithubActions/actions/workflows/dotnet.yml)
 
 # Github Actions Lab
 
